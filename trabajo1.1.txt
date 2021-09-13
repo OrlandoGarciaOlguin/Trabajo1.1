@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Hola Mundo</title>
+    <style>
+        #texto1{
+            color: azure;
+        }
+        .test{
+            color: chartreuse;
+        }
+        .fondo{
+            background-color: coral;
+        }
+    </style>
+</head>
+<body>
+    <h1 id="titulo" class="" name="nombre">Hola Mundo</h1>
+    <table >
+        <tr>
+            <td>
+                Gustos
+            </td>
+            <td>
+                Musica                
+            </td>
+            <td>
+                Lenguajes                
+            </td>
+        </tr>
+        <tr class="test fondo" >
+            <td>
+                Pizza
+            </td>           
+        </tr>
+        <tr class="fondo">
+            <td>
+                videojuegos
+            </td>
+            <td class="test">
+                electronica
+            </td>
+        </tr>
+        <tr class="fondo">
+            <td>
+                dibujar
+            </td>
+            <td class="test">
+                
+            </td>
+            <td>
+                Ingles
+            </td>
+        </tr>
+        <tr>
+            <td>
+
+            </td>
+            <td>
+                
+            </td>
+            <td class="test">
+                Frances
+            </td>            
+        </tr>        
+    </table>
+
+    <table>        
+        <tr>
+            <td>
+                Gustos
+            </td>
+            <td>
+                ver-tv
+            </td>
+            <td class="fondo">
+                dormir
+            </td>            
+        </tr>
+        <tr>            
+            <td>
+                Musica                
+            </td>
+            <td class="test">
+                pop
+            </td>
+            <td>
+                
+            </td>
+            <td class="fondo test">
+                clasica
+            </td>            
+        </tr>
+        <tr>            
+            <td>
+                Lenguajes                
+            </td>
+            <td>
+                
+            </td>
+            <td>
+                
+            </td>
+            <td>
+                Japones
+            </td>
+        </tr>             
+    
+    </table>
+
+
+
+
+
+</body>
+
+</html>
